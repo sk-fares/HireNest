@@ -1,0 +1,15 @@
+
+# Ignore uploaded resumes
+/storage/resumes/*
+!/storage/resumes/.gitkeep
+
+# Ignore environment and secret files
+.env
+.env.*
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor settings
+.vscode/
